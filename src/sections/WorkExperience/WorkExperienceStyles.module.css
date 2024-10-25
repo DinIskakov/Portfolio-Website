@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+    .individualExperience {
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+        width: 70%;
+        justify-content: space-around;
+    }
+
+}
+
+.workExperienceContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
