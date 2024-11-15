@@ -11,14 +11,14 @@ function Projects() {
         <div className={styles.projectsContainer}>
             <ProjectCard 
                 src={projectCode} 
-                link={'https://github.com'}
+                link={'https://github.com/DinIskakov/Data-Analysis-Dashboard'}
                 h3="Data Analysis Dashboard"
                 p="A tool for analysts to help decode their data"
                 className={styles.description}
                 />
             <ProjectCard 
                 src={projectCode} 
-                link={'https://github.com'}
+                link={'https://github.com/DinIskakov/Battleship'}
                 h3="Battleships"
                 p="A web app game"
                 />
