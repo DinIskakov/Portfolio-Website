@@ -18,15 +18,15 @@ function Projects() {
                 />
             <ProjectCard 
                 src={projectCode} 
-                link={'https://github.com/DinIskakov/Battleship'}
-                h3="Battleships"
-                p="A web app game"
+                link={'https://github.com/DinIskakov/CalendarAI'}
+                h3="AI Calendar Assistant"
+                p="An AI-powered calendar assistant that helps you manage your schedule"
                 />
             <ProjectCard 
                 src={projectCode} 
-                link={'https://github.com'}
-                h3="ML Engineering"
-                p="Machine learning project"
+                link={'https://github.com/DinIskakov/Customer-Churn'}
+                h3="Customer Churn Prediction"
+                p="Machine learning project to predict whether the customer will stop paying for the service"
                 />
             
         </div>
